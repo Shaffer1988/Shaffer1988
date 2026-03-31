@@ -10,7 +10,7 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![coding](https://img.shields.io/badge/coding-3DA639?logo=codinginitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Shaffer1988)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/john-shaffer-a85023361)
 
-_"Your sample quote here!"_
+_"Growth and comfort do not coexist!"_
